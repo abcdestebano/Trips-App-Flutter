@@ -1,6 +1,6 @@
 # Trips App Flutter
 
-App made with Flutter in a course of Platzi.
+App made with Flutter.
 
 ## Widgets
 <ul>
