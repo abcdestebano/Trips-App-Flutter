@@ -8,6 +8,7 @@ App made with Flutter in a course of Platzi.
   <li>Cards</li>
   <li>Images</li>
   <li>Texts</li>
+  <li>Lists</li>
   <li>Stack (Overflow Widgets)</li>
   <li>Tab Navigation</li>
   <li>Floating Buttons</li>
